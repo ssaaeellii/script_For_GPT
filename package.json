@@ -35,6 +35,7 @@
     "test:prettier": "prettier '**/*.{js,jsx,ts,tsx}' --check"
   },
   "dependencies": {
+    "chatgpt": "^4.0.4",
     "eventsource-parser": "^0.0.5",
     "gpt-3-encoder": "^1.1.4",
     "keyv": "^4.5.2",
